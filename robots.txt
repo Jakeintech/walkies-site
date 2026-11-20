@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jakeintech.github.io/walkies-site/sitemap.xml
